@@ -59,3 +59,4 @@ record Dashboard(String template) {
             .replace("\"", "&quot;").replace("'", "&#39;");
     }
 }
+
