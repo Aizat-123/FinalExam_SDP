@@ -1,5 +1,3 @@
-package org.example.finalexam_sdp;
-
 import java.time.LocalDate;
 
 record Pet(String name) {}
